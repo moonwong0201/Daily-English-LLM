@@ -21,7 +21,11 @@ def tok_speed(text: str):
 
 
 if __name__ == "__main__":
-    txt = "Hello world " * 100
+    txt = "Hello world " * 2500
     ratio = tok_speed(txt)
     print(f"Fast / normal = {ratio:.2f}x")
+    if ratio < 1.0:
+        print("Fast tokenizer is quicker")
+    else:
+        print("Fast tokenizer NOT quicker")
     assert ratio < 1.0, "Fast tokenizer should be quicker"
