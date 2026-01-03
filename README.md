@@ -8,5 +8,5 @@ Daily 60-min English tech doc &amp; runnable code for LLM | 每天 60 分钟英�
 
 ## Recent
 | Date | Doc / Paper | Code | Tweet |
-| ---- | --------- | ---- | ----- |
+| ------ | ------- | ------- | ------- |
 | 01-01 | https://huggingface.co/docs/transformers/v4.56.0/en/model_doc/bert?usage=AutoModel#transformers.BertForMultipleChoice |[📁 folder](https://github.com/moonwong0201/Daily-English-LLM/tree/main/code/2026-01-01) | [🐦 tweet](https://x.com/CherlasWong1227/status/2006903130668282222) |
