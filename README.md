@@ -7,7 +7,7 @@ Daily 60-min English tech doc &amp; runnable code for LLM | 每天 60 分钟英�
 - 复现代码：💻 12 例（均带运行截图）
 
 ## Recent
-| Date   | Doc / Paper | Code | Tweet |
+| Date   | Doc / Paper | Code / Note | Tweet |
 |--------|-------------|------|-------|
 | 01-01  | [📖 Huggingface Bert](https://huggingface.co/docs/transformers/v4.56.0/en/model_doc/bert?) | [📁 code](https://github.com/yourname/Daily-English-LLM/tree/main/code/2026-01-01) | [🐦 tweet](https://x.com/CherlasWong1227/status/2006903130668282222) |
 | 01-02  | [📖 Huggingface Bert](https://huggingface.co/docs/transformers/v4.56.0/en/model_doc/bert?) | [📁 code](https://github.com/moonwong0201/Daily-English-LLM/tree/main/code/2026-01-02) | [🐦 tweet](https://x.com/CherlasWong1227/status/2006943681316852075) |
