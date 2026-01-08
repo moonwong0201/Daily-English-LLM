@@ -1,10 +1,10 @@
-### BERT Fine-Tune Light Sweep (2025-06-26)
+### BERT Fine-Tune Light Sweep
 
 #### 1. 实验目标
 
 验证《How to Fine-Tune BERT for Text Classification》核心经验：
 - lr ∈ {2e-5,3e-5,5e-5} × batch ∈ {16,32}，3 epoch 早停
-- 轻量数据（500 行）即可复现趋势
+- 11,988 条真实外卖评价数据
 
 #### 2. 结果（CSV 已上传）
 
